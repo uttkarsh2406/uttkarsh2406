@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uttkarsh2406
 - 👀 I’m interested in python
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and WEB DEVLOPMENT
 - 💞️ I’m looking to collaborate on ...,
 - 📫 How to reach me uttkars_b190955cs@nitc.ac.in
 
